@@ -1,2 +1,2 @@
 # HomeWork
-The assignment evaluated the website Twitter based on purpose, strategy, and usability. Twitter is a social media platform where users can share short messages (tweets) and stay updated on current events. The design is user-friendly, catering to individuals, celebrities, businesses, and organizations. It is compatible with major browsers, loads quickly, and has a responsive design for mobile devices.
+The assignment evaluated the website Twitter based on purpose, strategy, and usability. 
