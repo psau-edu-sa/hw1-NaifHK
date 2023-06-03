@@ -1,2 +1,2 @@
-# HomeWork
-The assignment evaluated the website Twitter based on purpose, strategy, and usability. 
+# HomeWork Description
+overview of the search conducted on Twitter. It covers the purpose of Twitter, its services, and target audience. The strategy section discusses Twitter's design and features. The usability section examines page load times, search functionality, and browser compatibility. The content and readability section evaluates fonts, text size, and content quality. The conclusion recommends improvements such as customizability options, enhanced search filters, better content moderation, and improved contrast for readability. These recommendations aim to enhance the user experience and maintain Twitter's position as a leading social media platform.
